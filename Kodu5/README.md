@@ -11,6 +11,10 @@ catch (e) {
 
 Kui teha eelnevalt n2htut ilma catchita siis VSC-d ytleb, et '"finnaly" expected'. Ei saanud kuidagi aru miks.
 
+L6puks sain aru milles probllen. Otsutasin lugeda ja sain hakkama. Ei pidanudki seekord uut repot tegema 😲.
+![image](https://user-images.githubusercontent.com/78594982/140526342-0381c069-26f6-42d2-9bd4-4bfe4c36100f.png)
+
+
 
 Kasutatud allikad
 https://www.pluralsight.com/guides/how-to-render-%22a%22-with-optional-href-in-react
